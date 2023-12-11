@@ -14,9 +14,11 @@ For further information on the project, see:
 - SPARQL Tutorial using the MiMoTextBase (and Wikidata): https://mimotext.github.io/MiMoTextBase_Tutorial/ 
 
 Schöch, Christof, Maria Hinzmann, Röttgermann Julia, Anne Klee, and Katharina Dietz. “Smart Modelling for Literary History.” IJHAC: International Journal of Humanities and Arts Computing [Special Issue on Linked Open Data] 16, no. 1 (2022): 78–93. https://doi.org/10.3366/ijhac.2022.0278.
+
 Hinzmann et al. “Patterns in modeling and querying a knowledge graph for literary history” (in print).
 
-zotero
+The full project bibliography can be found here:
+zotero:
 https://www.zotero.org/groups/2342956/mimotext/library
 
 In the following all repositories used within the project MiMoText are listed divided in the sections either from the three pillars of the project or infrastructure and dissemination: 
