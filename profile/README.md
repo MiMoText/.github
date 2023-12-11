@@ -18,6 +18,7 @@ Schöch, Christof, Maria Hinzmann, Röttgermann Julia, Anne Klee, and Katharina 
 Hinzmann et al. “Patterns in modeling and querying a knowledge graph for literary history” (in print).
 
 The full project bibliography can be found here:
+
 zotero:
 https://www.zotero.org/groups/2342956/mimotext/library
 
